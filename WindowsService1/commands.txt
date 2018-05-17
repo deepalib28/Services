@@ -1,0 +1,7 @@
+1. Go to the bin/debug path and run below command
+
+installutil servicename.exe
+
+2. to delete the service
+
+sc delete service name

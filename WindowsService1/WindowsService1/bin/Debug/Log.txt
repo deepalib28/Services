@@ -1,0 +1,6 @@
+
+5/17/2018 10:18:34 AM:Windows service stopped
+5/17/2018 10:18:36 AM:Windows service started
+5/17/2018 10:18:39 AM:Windows service stopped
+5/17/2018 10:18:44 AM:Windows service started
+5/17/2018 10:19:02 AM:Windows service stopped
