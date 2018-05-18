@@ -5,3 +5,8 @@ installutil servicename.exe
 2. to delete the service
 
 sc delete service name
+
+
+	2. Change the service name without changing name in code
+	Go to exe path:-
+	sc create TestService binPath= "D:\Projects\Services\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe"
